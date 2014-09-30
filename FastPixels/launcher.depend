@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1412074510 source:c:\users\elev\fastpixels\launcher.cpp
+	<cstdio>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<windows.h>
+	"alex.h"
+	<ctime>
+
+1412074059 c:\users\elev\fastpixels\alex.h
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+

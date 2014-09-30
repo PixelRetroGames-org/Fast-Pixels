@@ -26,3 +26,19 @@
 	<stdlib.h>
 	<windows.h>
 
+1412074059 source:c:\users\elev\fastpixels\source.cpp
+	<cstdio>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	"SDL/SDL_image.h"
+	<windows.h>
+	"alex.h"
+	<ctime>
+	<string>
+
+1412074059 c:\users\elev\fastpixels\alex.h
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
